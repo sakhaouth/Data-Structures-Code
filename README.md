@@ -1,0 +1,5 @@
+This repositry contains some fundamental data structures like stak, graph, BST etc.
+All **.h** files contain the definations and .c conatains implementation for each data structure.
+
+
+**runner.c** is used to here to test the funtionalities of each data structures.
