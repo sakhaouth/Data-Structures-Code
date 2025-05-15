@@ -1,4 +1,4 @@
-This repositry contains some fundamental data structures like stak, graph, BST etc.
+This repositry contains some fundamental data structures like stack, graph, BST etc.
 All **.h** files contain the definations and .c conatains implementation for each data structure.
 
 
